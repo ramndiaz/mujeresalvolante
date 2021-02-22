@@ -10,6 +10,21 @@ h2 {
 h3 {
     text-align: center;
 }
-p{
+h5{
     padding: 15px;
+}
+
+.cont2{
+    background-color: darkorchid;
+    color: aliceblue;
+    width: 100%;
+}
+
+#intrant1{
+    text-align: center;
+    margin: 10px;
+}
+
+#intrant2{
+    text-align: center;
 }
